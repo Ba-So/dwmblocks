@@ -4,8 +4,6 @@ let
   # Default configuration
   defaultBlocks = [
     { icon = ""; command = "cat /tmp/recordingicon 2>/dev/null"; interval = 0; signal = 9; }
-    { icon = ""; command = "sb-todo"; interval = 10; signal = 11; }
-    { icon = ""; command = "sb-pomodoro"; interval = 1; signal = 2; }
     { icon = ""; command = "sb-tasks"; interval = 10; signal = 26; }
     { icon = ""; command = "sb-memory"; interval = 10; signal = 14; }
     { icon = ""; command = "sb-cpu"; interval = 10; signal = 18; }
