@@ -8,7 +8,6 @@ let
     { icon = ""; command = "sb-memory"; interval = 10; signal = 14; }
     { icon = ""; command = "sb-cpu"; interval = 10; signal = 18; }
     { icon = ""; command = "sb-forecast"; interval = 18000; signal = 5; }
-    { icon = ""; command = "sb-nettraf"; interval = 1; signal = 16; }
     { icon = ""; command = "sb-volume"; interval = 0; signal = 10; }
     { icon = ""; command = "sb-battery"; interval = 5; signal = 3; }
     { icon = ""; command = "sb-clock"; interval = 60; signal = 1; }
